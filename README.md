@@ -3,6 +3,7 @@
 The objective of this project is to perform comprehensive analysis on weather data using SQL Server. The project explores key metrics such as temperature, humidity, wind speed, and visibility to identify patterns, trends, and anomalies that support weather-related decision-making.
 
 ## Tool used
+- Google Colab
 - Microsoft SQL Server Management Studio
 
 ## Dataset used
