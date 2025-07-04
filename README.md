@@ -17,4 +17,4 @@ This project focuses on end-to-end data processing using Python and SQL Server. 
 - What is the average temperature for each type of weather condition?
 - Which day(s) in April 2006 had the lowest visibility and what was the weather summary?
 
- SQL Queries <a href="https://github.com/gomathimurthi199930/GitHub_SQL-Project/blob/main/SQL_Queries.sql"> view Queries</a>
+ <a href="https://github.com/gomathimurthi199930/GitHub_SQL-Project/blob/main/SQL_Queries.sql"> view Queries</a>
