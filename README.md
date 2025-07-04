@@ -2,6 +2,9 @@
 ## Project Objective
 The objective of this project is to perform comprehensive analysis on weather data using SQL Server. The project explores key metrics such as temperature, humidity, wind speed, and visibility to identify patterns, trends, and anomalies that support weather-related decision-making.
 
+## Tool used
+SQL Server
+
 ## Dataset used
 - <a href="https://github.com/gomathimurthi199930/GitHub_SQL-Project/blob/main/WeatherHistory.csv"> view Dataset</a>
 
