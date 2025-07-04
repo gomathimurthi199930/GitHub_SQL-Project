@@ -1,6 +1,6 @@
 # GitHub_SQL-Project
 ## Project Objective
-This project focuses on end-to-end data processing using Python and SQL Server. Raw weather data was cleaned and transformed in Google Colab, then uploaded to SQL Server for structured querying and analysis. The project explores key metrics such as temperature, humidity, wind speed, and visibility to identify patterns, trends, and anomalies that support weather-related decision-making.
+The objective of this project is to perform comprehensive analysis on weather data using SQL Server. The project explores key metrics such as temperature, humidity, wind speed, and visibility to identify patterns, trends, and anomalies that support weather-related decision-making.
 
 ## Dataset used
 - <a href="https://github.com/gomathimurthi199930/GitHub_SQL-Project/blob/main/WeatherHistory.csv"> view Dataset</a>
@@ -24,3 +24,13 @@ This project focuses on end-to-end data processing using Python and SQL Server. 
 - Data Cleaning: Used Python in Google Colab to clean and preprocess the data.
 - Data Upload: Imported the cleaned data into SQL Server using import tools.
 - Data Analysis: Executed SQL queries to analyze weather parameters such as temperature, humidity, wind speed, and visibility.
+
+## Project Insights
+- Monthly trends in temperature and humidity were identified using SQL queries.
+- Extreme weather days (hottest, coldest, and lowest visibility) were effectively detected.
+- Weather conditions were analyzed to find their effect on temperature and visibility.
+- Discovered a moderate correlation between temperature and humidity levels.
+- Cleaned data and structured storage in SQL Server enabled fast and accurate analysis.
+
+
+
