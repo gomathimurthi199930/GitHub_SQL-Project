@@ -4,3 +4,15 @@ This project focuses on end-to-end data processing using Python and SQL Server. 
 
 ## Dataset used
 - <a href="https://github.com/gomathimurthi199930/GitHub_SQL-Project/blob/main/WeatherHistory.csv"> view Dataset</a>
+
+## Questions
+- What is the average temperature for each month?
+-  Which day had the highest & lowest average temperature?
+-  What is the average Humidity and Wind speed
+-  How many days were above or below a certain temperature (35C)
+-  What are the top 10 hottest and coldest day?
+-  Is there a correlation between temperature and humidity?
+-  What is the temperature variation (difference between max and min temp) in each month?
+-  How many days had "Rainy" weather (based on weather_condition)?
+-  What is the average temperature for each type of weather condition?
+- Which day(s) in April 2006 had the lowest visibility and what was the weather summary?
